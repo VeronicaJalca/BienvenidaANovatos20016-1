@@ -1,4 +1,8 @@
 gfg
 
 jghj
+<<<<<<< HEAD
 abel
+=======
+vbasdsdfasdfasd
+>>>>>>> refs/heads/dev
